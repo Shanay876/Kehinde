@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		9CDAA9CD1E97D30C00EC524A /* Kehinde */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Kehinde; sourceTree = BUILT_PRODUCTS_DIR; };
 		9CDAA9D01E97D30C00EC524A /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		9CDAA9D71E97D3C100EC524A /* HEART.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = HEART.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				9CDAA9D01E97D30C00EC524A /* main.cpp */,
+				9CDAA9D71E97D3C100EC524A /* HEART.csv */,
 			);
 			path = Kehinde;
 			sourceTree = "<group>";
